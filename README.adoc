@@ -97,3 +97,4 @@ NOTE: You can easily test your chosen `ssh` config file e.g. `ssh -F ssh.cfg app
 . Identify the key roles e.g. common, frontends, apps, database etc
 . Convert the relevant plays into roles
 . Create wrapping playbook with multiple *plays* invoking *roles* on *groups*
+new line
